@@ -11435,6 +11435,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 1000px;
   position: relative;
+  text-align:center;
   margin: auto;
 }
 
